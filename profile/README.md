@@ -1,7 +1,6 @@
 # Welcome to Mindscape Health  
 
-<img src="https://github.com/user-attachments/assets/d8b36160-4afd-490e-be33-98f0a38a6595" alt="Mindscape Text Logo" width="400"/>
-
+<img src="https://github.com/user-attachments/assets/bc09c59e-5dfe-4a04-98a0-82ef7604dc19" alt="Mindscape Text Logo" width="400"/>
 
 
 🌟 **Empowering Mental Health with Technology** 🌟  
