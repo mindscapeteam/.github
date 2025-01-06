@@ -18,12 +18,10 @@ The Mindscape Health API allows developers to:
 ### 🌍 **Community Impact**  
 We're passionate about addressing the stigma surrounding mental health and providing tools that empower individuals and therapists alike.  
 
-
-
 ## Getting Started  
 
 ### 1. **Explore the API**  
-Start by checking out our [API Documentation](https://github.com/mindscapehealth/api-docs).  
+Start by checking out our [API Documentation](https://github.com/mindscapeteam/api-docs/).  
 
 ### 2. **Request an API Key**  
 Email **[hello@mindscapehealth.org](mailto:hello@mindscapehealth.org)** to get your unique authorization key.  
@@ -40,7 +38,7 @@ We believe in the power of community and welcome contributions! Here's how you c
 2. Create a branch for your feature or bug fix.  
 3. Submit a pull request for review.  
 
-Check our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.  
+Check our [CONTRIBUTING.md](https://github.com/mindscapeteam/api-docs/blob/main/CONTRIBUTION.md) for detailed guidelines.  
 
 ## Support  
 
@@ -52,7 +50,7 @@ Need help or have questions? Reach out to us:
 
 ## License  
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.)file for details.  
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/mindscapeteam/api-docs/blob/main/LICENSE) file for details.  
 
 
 
